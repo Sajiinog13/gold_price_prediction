@@ -1,2 +1,4 @@
 all_data.csv
 data/XAUUSD
+.ipynb_checkpoints/
+.ipynb_*
